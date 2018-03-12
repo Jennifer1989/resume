@@ -258,7 +258,7 @@ body {
     opacity: 0.6;
 }
 
-.r-timeline-title h4 {
+.r-expertise-num b,.r-timeline-title h4 {
     margin: 10px 0;
     font-weight: 600;
     font-size: 1.2rem;
