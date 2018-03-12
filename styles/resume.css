@@ -219,7 +219,7 @@ body {
     margin-bottom: 5px;
 }
 
-.r-skills-title b:first-child {
+.r-skills-title strong:first-child {
     color: rgb(255, 217, 95);
 }
 
